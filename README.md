@@ -51,5 +51,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Twitter - [@NkwoCc](https://twitter.com/nkwocc)
 
 [Back To The Top](#read-me-template)
-
-[Back To The Top](#read-me-template)
