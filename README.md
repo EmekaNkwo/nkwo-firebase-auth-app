@@ -1,17 +1,8 @@
 # Read Me Template
 
-### Table of Contents
-
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-
----
-
 ## Description
 
-This is a User Register and Login Authentication App.
+This is a User Register and Login Authentication App that uses Firebase.
 
 #### Technologies
 
